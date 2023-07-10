@@ -36,6 +36,7 @@ const NavbarStyles = styled.nav`
   justify-content: center;
   flex-direction: column;
   background-color: #000000;
+  box-shadow: 10px 10px 50px black;
   position: absolute;
   left: -100%;
   transition: 1s;
